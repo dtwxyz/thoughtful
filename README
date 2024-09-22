@@ -1,0 +1,12 @@
+- Clone this git repo
+- Make sure having python 3.10+ in the bin path
+
+bash$ python -V
+Python 3.12.6
+
+- Run the python file
+
+bash$ python pkgsort.py
+All good!
+
+- That is it!
